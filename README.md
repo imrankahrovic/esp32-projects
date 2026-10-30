@@ -16,6 +16,7 @@ I am working toward robotics, so the projects go step by step from the basics to
 | 06 | [Traffic light with pedestrian button](06-traffic-light-pedestrian) | state machine, millis(), button request |
 | 07 | [LDR automatic light](07-ldr-automatic-light) | analog sensor, thresholds, hysteresis |
 | 08 | [Active buzzer beep](08-active-buzzer-beep) | millis() timing, active buzzer |
+| 09 | [Passive buzzer siren](09-passive-buzzer-siren) | frequency, tone(), non-blocking sweep |
 
 More projects are coming: traffic light with `millis()`, sensors (light, motion, temperature), buzzers, OLED display, WiFi.
 

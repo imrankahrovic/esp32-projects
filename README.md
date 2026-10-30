@@ -13,6 +13,7 @@ I am working toward robotics, so the projects go step by step from the basics to
 | 03 | [Toggle with INPUT_PULLUP](03-input-pullup-toggle) | internal pull-up, inverted logic |
 | 04 | [PWM LED fade](04-pwm-led-fade) | PWM, duty cycle |
 | 05 | [Potentiometer controls LED](05-potentiometer-led) | analog input, voltage divider |
+| 06 | [Traffic light with pedestrian button](06-traffic-light-pedestrian) | state machine, millis(), button request |
 
 More projects are coming: traffic light with `millis()`, sensors (light, motion, temperature), buzzers, OLED display, WiFi.
 

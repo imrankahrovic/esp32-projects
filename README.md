@@ -14,6 +14,7 @@ I am working toward robotics, so the projects go step by step from the basics to
 | 04 | [PWM LED fade](04-pwm-led-fade) | PWM, duty cycle |
 | 05 | [Potentiometer controls LED](05-potentiometer-led) | analog input, voltage divider |
 | 06 | [Traffic light with pedestrian button](06-traffic-light-pedestrian) | state machine, millis(), button request |
+| 07 | [LDR automatic light](07-ldr-automatic-light) | analog sensor, thresholds, hysteresis |
 
 More projects are coming: traffic light with `millis()`, sensors (light, motion, temperature), buzzers, OLED display, WiFi.
 

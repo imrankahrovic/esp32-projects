@@ -17,6 +17,7 @@ I am working toward robotics, so the projects go step by step from the basics to
 | 07 | [LDR automatic light](07-ldr-automatic-light) | analog sensor, thresholds, hysteresis |
 | 08 | [Active buzzer beep](08-active-buzzer-beep) | millis() timing, active buzzer |
 | 09 | [Passive buzzer siren](09-passive-buzzer-siren) | frequency, tone(), non-blocking sweep |
+| 10 | [Passive buzzer melody](10-passive-buzzer-melody) | arrays, header files, reading sheet music |
 
 More projects are coming: traffic light with `millis()`, sensors (light, motion, temperature), buzzers, OLED display, WiFi.
 

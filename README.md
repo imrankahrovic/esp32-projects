@@ -15,6 +15,7 @@ I am working toward robotics, so the projects go step by step from the basics to
 | 05 | [Potentiometer controls LED](05-potentiometer-led) | analog input, voltage divider |
 | 06 | [Traffic light with pedestrian button](06-traffic-light-pedestrian) | state machine, millis(), button request |
 | 07 | [LDR automatic light](07-ldr-automatic-light) | analog sensor, thresholds, hysteresis |
+| 08 | [Active buzzer beep](08-active-buzzer-beep) | millis() timing, active buzzer |
 
 More projects are coming: traffic light with `millis()`, sensors (light, motion, temperature), buzzers, OLED display, WiFi.
 

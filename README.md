@@ -19,6 +19,7 @@ I am working toward robotics, so the projects go step by step from the basics to
 | 09 | [Passive buzzer siren](09-passive-buzzer-siren) | frequency, tone(), non-blocking sweep |
 | 10 | [Passive buzzer melody](10-passive-buzzer-melody) | arrays, header files, reading sheet music |
 | 11 | [DHT11 OLED thermometer](11-dht11-oled-thermometer) | I2C, libraries, reading a digital sensor |
+| 12 | [PIR motion alarm](12-pir-motion-alarm) | PIR sensor, warm-up, non-blocking alarm |
 
 More projects are coming: traffic light with `millis()`, sensors (light, motion, temperature), buzzers, OLED display, WiFi.
 

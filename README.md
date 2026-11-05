@@ -21,6 +21,7 @@ I am working toward robotics, so the projects go step by step from the basics to
 | 11 | [DHT11 OLED thermometer](11-dht11-oled-thermometer) | I2C, libraries, reading a digital sensor |
 | 12 | [PIR motion alarm](12-pir-motion-alarm) | PIR sensor, warm-up, non-blocking alarm |
 | 13 | [IR obstacle alarm](13-ir-obstacle-alarm) | IR sensor, non-blocking buzzer |
+| 14 | [IR people counter](14-ir-people-counter) | IR sensor, OLED display, event counting, button reset |
 
 More projects are coming: traffic light with `millis()`, sensors (light, motion, temperature), buzzers, OLED display, WiFi.
 

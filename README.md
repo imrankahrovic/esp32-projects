@@ -23,6 +23,7 @@ I am working toward robotics, so the projects go step by step from the basics to
 | 13 | [IR obstacle alarm](13-ir-obstacle-alarm) | IR sensor, non-blocking buzzer |
 | 14 | [IR people counter](14-ir-people-counter) | IR sensor, OLED display, event counting, button reset |
 | 15 | [PIR alarm with button](15-pir-alarm-button) | state machine, enum, switch, several timers |
+| 16 | [WiFi weather station](16-wifi-weather-station) | WiFi, web server, secrets.h |
 
 More projects are coming: traffic light with `millis()`, sensors (light, motion, temperature), buzzers, OLED display, WiFi.
 

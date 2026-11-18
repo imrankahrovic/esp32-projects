@@ -26,6 +26,7 @@ I am working toward robotics, so the projects go step by step from the basics to
 | 16 | [WiFi weather station](16-wifi-weather-station) | WiFi, web server, secrets.h |
 | 17 | [WiFi temperature alert](17-wifi-temperature-alert) | HTTP POST, push notifications, hysteresis |
 | 18 | [Button code alarm](18-button-code-alarm) | state machine, button code, push notifications |
+| 19 | [Parking sensor](19-parking-sensor) | ultrasonic sensor, voltage divider, median filter, LED bar |
 
 More projects are coming: traffic light with `millis()`, sensors (light, motion, temperature), buzzers, OLED display, WiFi.
 
